@@ -7,7 +7,7 @@ This repository contains all the materials and assignments from my data science 
 - [Data Science Training Repository](#data-science-training-repository)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
-  - [Data Science Assignments](#Data Science Assignments)
+  - [Data Science Assignments](#Data-Science-Assignments)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Features](#features)
